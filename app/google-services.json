@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591651664002",
+    "project_id": "authemailpassword-25ec7",
+    "storage_bucket": "authemailpassword-25ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591651664002:android:c9bd3642899a27c54e849b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthbyemailpasswordx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4NGbNqzmY2e6wEreZviO8bYY-GyULs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
